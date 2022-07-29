@@ -1,0 +1,15 @@
+{
+  "name": "app-express-test",
+  "version": "1.0.0",
+  "description": "Application test avec ExpressJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.2",
+    "express": "^4.18.1"
+  }
+}
